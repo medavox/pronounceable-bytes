@@ -22,9 +22,10 @@ Inspired by [Proquints](https://arxiv.org/html/0901.4016) (see also https://gith
 | **0xf␣: y␣** | f0: yq | f1: ya | f2: ye | f3: yi | f4: yo | f5: yu | f6: yai | f7: yau | f8: yqn | f9: yan | fa: yen | fb: yin | fc: yon | fd: yun | fe: yain | ff: yaun | 
 
 the only major differences from IPA pronunciation are:
+```
 ⟨c⟩ as /ʃ ~ tʃ/
 ⟨q⟩ as /ə ~ ʌ/
-
+```
 ⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, to aid internationality.
 
 Full pronunciation guide:
