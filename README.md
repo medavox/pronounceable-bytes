@@ -21,6 +21,13 @@ Inspired by [Proquints](https://arxiv.org/html/0901.4016) (see also https://gith
 | **e␣: w␣** | e0: wq | e1: wa | e2: we | e3: wi | e4: wo | e5: wu | e6: wai | e7: wau | e8: wqn | e9: wan | ea: wen | eb: win | ec: won | ed: wun | ee: wain | ef: waun | 
 | **f␣: y␣** | f0: yq | f1: ya | f2: ye | f3: yi | f4: yo | f5: yu | f6: yai | f7: yau | f8: yqn | f9: yan | fa: yen | fb: yin | fc: yon | fd: yun | fe: yain | ff: yaun | 
 
+the only major differences from IPA pronunciation are:
+⟨c⟩ as /ʃ ~ tʃ/
+⟨q⟩ as /ə ~ ʌ/
+
+⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, to aid internationality.
+
+Full pronunciation guide:
 
 onset | rough pronunciation
 ------|--------
@@ -43,21 +50,21 @@ w | w ~ ʋ ~ v
 
 ptk and bdg are distinguished by voicing, aspiration or both
 
-coda | rough pronunciation (IPA)
+coda | pronunciation (IPA)
 ---|---
 q | ə ~ ʌ
 a | a
 e | e
-i | i, ɪ
+i | i ~ ɪ
 o | o
-u | u, ʊ
+u | u ~ ʊ
 ai | aɪ
 au | aʊ
 qn | ən
 an | an
 en | en
-in | in, ɪn
+in | in ~ ɪn
 on | on
-un | un, ʊn
+un | un ~ ʊn
 ain | aɪn
 aun | aʊn
