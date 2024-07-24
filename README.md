@@ -2,6 +2,7 @@
 pronounceable bytes
 
 | **q**| **a**| **e**| **i**| **o**| **u**| **ai**| **au**| **qn**| **an**| **en**| **in**| **on**| **un**| **ain**| **aun** |
+-------------------
 | ** ** | 00:  q | 01:  a | 02:  e | 03:  i | 04:  o | 05:  u | 06:  ai | 07:  au | 08:  qn | 09:  an | 0a:  en | 0b:  in | 0c:  on | 0d:  un | 0e:  ain | 0f:  aun | 
 | **b** | 10: bq | 11: ba | 12: be | 13: bi | 14: bo | 15: bu | 16: bai | 17: bau | 18: bqn | 19: ban | 1a: ben | 1b: bin | 1c: bon | 1d: bun | 1e: bain | 1f: baun | 
 | **c** | 20: cq | 21: ca | 22: ce | 23: ci | 24: co | 25: cu | 26: cai | 27: cau | 28: cqn | 29: can | 2a: cen | 2b: cin | 2c: con | 2d: cun | 2e: cain | 2f: caun | 
