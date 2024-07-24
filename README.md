@@ -1,5 +1,6 @@
 # Pronounceable Bytes
 
+Inspired by [Proquints](https://arxiv.org/html/0901.4016) (see also https://github.com/dsw/proquint)
 
 |  | ␣0: **␣q** | ␣1: **␣a** | ␣2: **␣e** | ␣3: **␣i** | ␣4: **␣o** | ␣5: **␣u** | ␣6: **␣ai** | ␣7: **␣au** | ␣8: **␣qn** | ␣9: **␣an** | ␣a: **␣en** | ␣b: **␣in** | ␣c: **␣on** | ␣d: **␣un** | ␣e: **␣ain** | ␣f: **␣aun** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -40,6 +41,7 @@ s | s
 t | t
 w | w ~ ʋ ~ v
 
+ptk and bdg are distinguished by voicing, aspiration or both
 
 coda | rough pronunciation (IPA)
 ---|---
