@@ -21,12 +21,15 @@ Inspired by [Proquints](https://arxiv.org/html/0901.4016) (see also https://gith
 | **0xe␣: w␣** | e0: wq | e1: wa | e2: we | e3: wi | e4: wo | e5: wu | e6: wai | e7: wau | e8: wqn | e9: wan | ea: wen | eb: win | ec: won | ed: wun | ee: wain | ef: waun | 
 | **0xf␣: y␣** | f0: yq | f1: ya | f2: ye | f3: yi | f4: yo | f5: yu | f6: yai | f7: yau | f8: yqn | f9: yan | fa: yen | fb: yin | fc: yon | fd: yun | fe: yain | ff: yaun | 
 
-the only major differences from IPA pronunciation are:
-```
-⟨c⟩ as /ʃ ~ tʃ/
-⟨q⟩ as /ə ~ ʌ/
-```
-⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, to aid internationality.
+Every letter is pronounced as it is in the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (basically how you think it would be), except for:
+
+letter | IPA pronunciation | in English)
+-------|-------------------|------------
+⟨c⟩    | /ʃ ~ tʃ/          | like 'sh' in 'sharp', or else like 'ch' in 'charge'
+⟨q⟩    | /ə ~ ʌ/           | the 'uhhh' sound in words like 'fun'
+
+
+⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, to so that they can be pronounced by a wide variety of non-english speakers.
 
 You don't have to memorise pronunciations for all 256 bytes! 
 
