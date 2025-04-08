@@ -32,7 +32,7 @@ You don't have to memorise pronunciations for all 256 bytes!
 
 Just the 16 onsets (syllable beginnings, which encode the first hex digit) and 16 codas (syllable endings, which encode the second hex digit):
 
-byte |  onset  | rough pronunciation
+byte |  consonant  | rough pronunciation
 -----|---------|--------
 0x0␣ | nothing | ∅ (no onset consonant)
 0x1␣ | b | b
@@ -53,7 +53,7 @@ byte |  onset  | rough pronunciation
 
 ptk and bdg are distinguished by voicing, aspiration or both
 
-byte | coda | pronunciation (IPA)
+byte | ending | pronunciation (IPA)
 -----|------|---
 0x␣0 | q | ə ~ ʌ
 0x␣1 | a | a
