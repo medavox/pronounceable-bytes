@@ -28,44 +28,46 @@ the only major differences from IPA pronunciation are:
 ```
 ⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, to aid internationality.
 
-Full pronunciation guide:
+You don't have to memorise pronunciations for all 256 bytes! 
 
-onset | rough pronunciation
-------|--------
-nothing | ∅ (no onset consonant)
-b | b
-c | ʃ ~ tʃ
-d | d
-f | f ~ ɸ
-g | g
-h | h ~ x ~ χ ~ ʁ
-y | j
-k | k
-l | l
-m | m
-n | n
-p | p
-s | s
-t | t
-w | w ~ ʋ ~ v
+Just the 16 onsets (syllable beginnings, which encode the first hex digit) and 16 codas (syllable endings, which encode the second hex digit):
+
+byte |  onset  | rough pronunciation
+-----|---------|--------
+0x0␣ | nothing | ∅ (no onset consonant)
+0x1␣ | b | b
+0x2␣ | c | ʃ ~ tʃ
+0x3␣ | d | d
+0x4␣ | f | f ~ ɸ
+0x5␣ | g | g
+0x6␣ | h | h ~ x ~ χ ~ ʁ
+0x7␣ | k | k
+0x8␣ | l | l
+0x9␣ | m | m
+0xA␣ | n | n
+0xB␣ | p | p
+0xC␣ | s | s
+0xD␣ | t | t
+0xE␣ | w | w ~ ʋ ~ v
+0xF␣ | y | j
 
 ptk and bdg are distinguished by voicing, aspiration or both
 
-coda | pronunciation (IPA)
----|---
-q | ə ~ ʌ
-a | a
-e | e
-i | i ~ ɪ
-o | o ~ ɘʊ ~ ɔ ~ ɑ
-u | u ~ ʊ
-ai | aɪ
-au | aʊ
-qn | ən
-an | an
-en | en
-in | in ~ ɪn
-on | on ~ ɘʊn ~ ɔn ~ ɑn
-un | un ~ ʊn
-ain | aɪn
-aun | aʊn
+byte | coda | pronunciation (IPA)
+-----|------|---
+0x␣0 | q | ə ~ ʌ
+0x␣1 | a | a
+0x␣2 | e | e
+0x␣3 | i | i ~ ɪ
+0x␣4 | o | o ~ ɘʊ ~ ɔ ~ ɑ
+0x␣5 | u | u ~ ʊ
+0x␣6 | ai | aɪ
+0x␣7 | au | aʊ
+0x␣8 | qn | ən
+0x␣9 | an | an
+0x␣A | en | en
+0x␣B | in | in ~ ɪn
+0x␣C | on | on ~ ɘʊn ~ ɔn ~ ɑn
+0x␣D | un | un ~ ʊn
+0x␣E | ain | aɪn
+0x␣F | aun | aʊn
