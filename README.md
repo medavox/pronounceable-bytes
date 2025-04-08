@@ -57,7 +57,7 @@ q | ə ~ ʌ
 a | a
 e | e
 i | i ~ ɪ
-o | o
+o | o ~ ɘʊ ~ ɔ ~ ɑ
 u | u ~ ʊ
 ai | aɪ
 au | aʊ
@@ -65,7 +65,7 @@ qn | ən
 an | an
 en | en
 in | in ~ ɪn
-on | on
+on | on ~ ɘʊn ~ ɔn ~ ɑn
 un | un ~ ʊn
 ain | aɪn
 aun | aʊn
