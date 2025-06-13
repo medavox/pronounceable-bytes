@@ -23,13 +23,13 @@ Inspired by [Proquints](https://arxiv.org/html/0901.4016) (see also https://gith
 
 Every letter is pronounced as it is in the [International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) (basically how you think it would be), except for:
 
-letter | IPA pronunciation | in English)
+letter | IPA pronunciation | English example
 -------|-------------------|------------
 ⟨c⟩    | /ʃ ~ tʃ/          | like 'sh' in 'sharp', or else like 'ch' in 'charge'
 ⟨q⟩    | /ə ~ ʌ/           | the 'uhhh' sound in words like 'fun'
 
 
-⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, to so that they can be pronounced by a wide variety of non-english speakers.
+⟨f⟩, ⟨h⟩ and ⟨w⟩ have a range of valid pronunciations, so that they can be pronounced by a wide variety of non-english speakers.
 
 You don't have to memorise pronunciations for all 256 bytes! 
 
